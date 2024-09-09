@@ -1,1 +1,2 @@
 tronco_color: #633E29
+color: #008000
