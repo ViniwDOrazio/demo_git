@@ -1,0 +1,3 @@
+olhos: #000000
+color: #FAFAFA
+labios: #ED1C24
